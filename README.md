@@ -1,14 +1,14 @@
 👋 Hi, I'm Negar and I work at Ariana Company.
 
 
-💻 Web & Graphic Designer 
-✨ Discovering creativity through coding and design 
+💻 Web & Graphic Designer  
+✨ Discovering creativity through coding and design  
 🌱 Always learning, always creating 
 
 🔹 About me  
-🎨 Passionate about graphics and web design 
--💡 Building creative projects and personal portfolios 
--🌍 Sharing works and ideas on GitHub 
+🎨 Passionate about graphics and web design  
+💡 Building creative projects and personal portfolios  
+🌍 Sharing works and ideas on GitHub 
 
 🔹 Skills 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
