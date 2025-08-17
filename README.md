@@ -8,7 +8,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ariana_work95)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/989913540552)
 </div>
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 
 ## ✨ Skills (Tech & Creative)
 
