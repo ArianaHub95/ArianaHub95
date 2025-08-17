@@ -61,7 +61,7 @@ ________________________________________________________________________________
 
 ### 🎨 Graphic Design
 - Designed posters, promotional banners, business cards, and various graphic works
-- Multiple personal and professional projects showcased in [Portfolio](#portfolio)
+- Multiple personal and professional projects showcased in [Instagram](https://t.me/ariana_work95)
 
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
