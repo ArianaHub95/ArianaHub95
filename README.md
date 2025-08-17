@@ -45,8 +45,26 @@ ________________________________________________________________________________
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________________________________________________ 
+## 💼 Experience
 
+### 🖥️ Web Development & Programming
+- 4 years of experience in web design and development using HTML, CSS, and JavaScript
+- Built creative projects and professional website samples
+
+### 📱 Social Media Management
+- 2 years as Instagram admin, managing content and campaigns
+
+### 🏢 Professional Experience
+- Working at Ariana Company (since 2016) in the Web Department
+- Involved in UI/UX design and website optimization projects
+
+### 🎨 Graphic Design
+- Designed posters, promotional banners, business cards, and various graphic works
+- Multiple personal and professional projects showcased in [Portfolio](#portfolio)
+
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 <div align="center">
 Made with love and coffee ☕
 </div>
