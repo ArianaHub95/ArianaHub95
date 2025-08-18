@@ -26,13 +26,17 @@
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 🧩 About me
-- Learning more about Back-End and professional content production.
 - Working on WordPress projects and Insta management + Rails editing.
-- I'd be happy to chat about collaborations :)
+- I'm currently learning ReactJS, MongoDB, ExpressJS, NodeJS
+- Ask me about Front-End Development, Graphic Designing
+
+- All of my projects are available at
+- [Instagram]([https://t.me/ariana_work95](https://instagram.com/ariana_work95)
 
 Contact me:  
 [![Email](https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white)](negar_sharegh@yahoo.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ariana_work95)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ariana_work95)  
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ariana_work95)
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
