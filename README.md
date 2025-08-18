@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 ## 🧩 About me
 - Working on WordPress projects and Insta management + Rails editing.
-- I'm currently learning ReactJS, ExpressJS, NodeJS
+- I'm currently learning ReactJS, NodeJS
 - Ask me about Front-End Development, Graphic Designing
 
 - All of my projects are available at
