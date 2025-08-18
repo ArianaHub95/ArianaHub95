@@ -31,7 +31,7 @@ ________________________________________________________________________________
 - Ask me about Front-End Development, Graphic Designing
 
 - All of my projects are available at
-  [Instagram]([https://t.me/ariana_work95](https://instagram.com/ariana_work95)
+ [Instagram]([https://t.me/ariana_work95](https://instagram.com/ariana_work95))
 
 Contact me:  
 [![Email](https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white)](negar_sharegh@yahoo.com)
